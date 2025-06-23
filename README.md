@@ -33,8 +33,11 @@ HTML ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=h
 ## Acheivements
 
 -Participated in an Ideathon and Won first Position. The problem statement was to find solution for stubble burning and my idea was CareAir.It was a Smart solution which aims how we can transfigure agriculture sector with the use of AI and technology.
+<br>
 -Also for another ideathon created "Shvash" which means to breathe, another Sustainable Solution for cleaner and healthier Air in Delhi.It was basically a modular, AI-powered ecosystem that deals with pollution dynamically and sustainably.
+<br>
 -Currently working on creating a Coding Game.
+<br>
 
 ---
 
