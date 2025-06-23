@@ -8,6 +8,11 @@ I am passionate about tech, coding, and building meaningful projects.
 <br>
 I love exploring new tools, solving problems, and working on real-world applications.
 <br>
+## EDUCATIONAL QUALFICATIONS
+- CGPA: 9.26
+- Senior Secondary: 93%
+- High School:96.2%
+---
 Currently learning: 
 - DSA in C++ <br>
 - Full stack development with AI. <br>
@@ -25,11 +30,12 @@ HTML ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=h
 - Problem Solving
 - Public Speaking
 ---
-## EDUCATIONAL QUALFICATIONS
-- CGPA: 9.26
-- Senior Secondary: 93%
-- High School:96.2%
-  
+## Acheivements
+
+-Participated in an Ideathon and Won first Position. The problem statement was to find solution for stubble burning and my idea was CareAir.It was a Smart solution which aims how we can transfigure agriculture sector with the use of AI and technology.
+-Also for another ideathon created "Shvash" which means to breathe, another Sustainable Solution for cleaner and healthier Air in Delhi.It was basically a modular, AI-powered ecosystem that deals with pollution dynamically and sustainably.
+-Currently working on creating a Coding Game.
+
 ---
 
 ### Contact
