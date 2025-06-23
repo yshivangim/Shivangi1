@@ -29,8 +29,10 @@ HTML ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=h
 - CGPA: 9.26
 - Senior Secondary: 93%
 - High School:96.2%
+  
+---
 
 ### Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/shivangi-5a2a54329)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivangi-5a2a54329)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](Mail to: yshivangim.207@gmail.com)
 
