@@ -20,8 +20,10 @@ C++ ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2
 HTML ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ,CSS ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white), JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), Tailwind CSS ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 <br>
 
-## Soft Skills
-Leadership, Public Speaking, Problem Solving
+## Soft Sills
+- LeaderShip
+- Problem Solving
+- Public Speaking
 ---
 ## EDUCATIONAL QUALFICATIONS
 - CGPA: 9.26
