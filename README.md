@@ -8,7 +8,8 @@ I am passionate about tech, coding, and building meaningful projects.
 <br>
 I love exploring new tools, solving problems, and working on real-world applications.
 <br>
-## EDUCATIONAL QUALFICATIONS
+
+## Educational Qualifications
 - CGPA: 9.26
 - Senior Secondary: 93%
 - High School:96.2%
